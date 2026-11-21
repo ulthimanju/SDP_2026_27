@@ -31,7 +31,5 @@ The framework will be evaluated using existing agent-security benchmarks and con
 - Evaluation of security, legitimate task completion and runtime overhead.
 - A research paper presenting the proposed framework and experimental findings.
 
-## 6. Proposed Technologies
-- **Core Technologies:** Python, LangGraph, Large Language Models, Pydantic, YAML-based security policies.
-- **Evaluation Benchmarks:** AgentDojo and InjecAgent benchmarks.
-- **Research Direction:** Agentic AI Security, Information-Flow Control and Runtime Security Enforcement.
+## 6. Research Direction
+Agentic AI Security, Information-Flow Control and Runtime Security Enforcement.
