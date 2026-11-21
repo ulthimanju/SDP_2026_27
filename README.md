@@ -19,6 +19,8 @@ The proposed framework consists of four major components:
 - **Capability Policy Engine:** Checks whether the requested tool action is permitted based on the user's task, security policies and information provenance. It can allow, block or request user approval.
 - **Safe Declassification:** Allows the agent to extract legitimate information from untrusted content without automatically trusting instructions embedded within it.
 
+![AgentTaint System Architecture](SYSTEM_ARCHITECTURE.png)
+
 ## 4. Research Objective
 The primary objective is to investigate whether information provenance tracking combined with context-aware permission enforcement can reduce indirect prompt-injection attacks while maintaining the normal functionality of AI agents.
 
